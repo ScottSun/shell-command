@@ -6,3 +6,6 @@ mac下的sed命令的-i参数，需要带一个备份文件名，如果不需要
 
 sudo权限重定向
 * sudo sh -c ">access.log"
+
+vim删除空白行
+* g/^$/d
