@@ -11,4 +11,4 @@ vim删除空白行
 * g/^$/d
 
 awk求和
-awk 'BEGIN{total=0}{total+=$1}END{print total}'
+* awk 'BEGIN{total=0}{total+=$1}END{print total}'
